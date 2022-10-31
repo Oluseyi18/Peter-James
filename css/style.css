@@ -79,6 +79,8 @@ h1, h2, h3{
     justify-content: flex-start;
     align-items: flex-end;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 #header .container{
     width: 100%;
