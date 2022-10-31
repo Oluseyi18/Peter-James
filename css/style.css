@@ -86,7 +86,7 @@ h1, h2, h3{
     width: 100%;
 }
 .header-content{
-    padding-bottom: 15rem;
+    padding-top: 15rem;
 }
 .header-content h1{
     font-size: 4.5rem;
@@ -476,6 +476,9 @@ h2.touch{
     .services .serv-content .card {
         width: 100%;
     }
+    .services .serv-content .card .box {
+    padding: 1rem;
+}
 }
 @media(max-width: 400px){
     .header-content h1{
